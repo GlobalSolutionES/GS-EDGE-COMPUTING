@@ -60,8 +60,8 @@
 - Desenvolvimento de lógica para monitoramento ambiental com múltiplos níveis de risco
 
 ## 👥 Equipe HydroSafe  
-- Geovana Maria da Silva Cardoso  
-- Mariana Silva do Egito Moreira
+- Geovana Maria da Silva Cardoso - 566254
+- Mariana Silva do Egito Moreira - 562544
 
 Turma: 1ESPF  
 Professor: Fábio Henrique Cabrini
