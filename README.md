@@ -74,6 +74,6 @@ Professor: Fábio Henrique Cabrini
 - Simulação no Wokwi: https://wokwi.com/projects/432441431948100609 
 
 ## 📽️ Demonstração  
-- (link do vídeo para demonstração/explicação do projeto)
+- https://youtu.be/wY_PsoQc46Y?si=ujxbnoG9nU2VM5XF
 
 Este projeto foi desenvolvido como entrega da GLOBAL SOLUTION da disciplina de EDGE COMPUTING AND COMPUTER SYSTEMS do curso de Engenharia de Software - FIAP.
